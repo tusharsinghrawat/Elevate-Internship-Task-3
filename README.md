@@ -1,4 +1,4 @@
-# 📘 Web Development Internship – Task 3  
+# Elevate Labs Web Development Internship – Task 3  
 ## REST API to Manage a List of Books (Node.js + Express)
 
 This project is a simple **REST API** built using **Node.js** and **Express** to manage a list of books.  
